@@ -1,0 +1,12 @@
+.cuadro {
+    text-align: center;          /* Centra el texto horizontalmente */
+    border: 2px solid black;     /* Borde del cuadro */
+    padding: 20px;               /* Espacio interno */
+    margin: 50px auto;           /* Centrado horizontal del cuadro */
+    width: fit-content;          /* Ajusta el ancho al contenido */
+    border-radius: 10px;         /* Bordes redondeados (opcional) */
+  }
+.gato{
+    display: block;
+    margin: 0 auto;
+}
